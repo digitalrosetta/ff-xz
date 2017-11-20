@@ -1,0 +1,9 @@
+{
+  "category": "compressed",
+  "contenttype": "application/x-xz",
+  "description": "XZ compressed files",
+  "extention": "xz",
+  "title": "XZ",
+  "website": "https://tukaani.org/xz/format.html",
+  "wikipedia": "https://en.wikipedia.org/wiki/Xz"
+}
